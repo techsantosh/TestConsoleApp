@@ -12,7 +12,7 @@ namespace TestConsoleApp
     {
         static void Main(string[] args)
         {
-            //test comment tttttttttttttt
+            //test comment ttttttttttttttt
             string connectionString = @"Provider=PostgreSQL OLE DB Provider;Data Source=192.10.44.97;location=RPM;User ID=postgres;password=Pass@123;";//"Provider=PostgreSQL OLE DB Provider;Server=192.10.44.97;Database=RPM;User=postgres;Password=Pass@123;";
 
             string queryString = "select * from Public.\"HOCUser\"";
